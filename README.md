@@ -10,3 +10,7 @@ Touchdesigner > setting (preference) Python 64-bit Module Path
 macOS: /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages
 
 windows: C:\Users\ *username* \AppData\Local\Programs\Python\Python39\Lib\site-packages
+
+
+****
+In .tox, there is no API KEY. In textDAT 'text_apiKey', paste your own key.
