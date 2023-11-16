@@ -2,7 +2,7 @@
 
 install python 3.9.5
 
-npm install openai
+pip install openai
 
 
 Touchdesigner > setting (preference) Python 64-bit Module Path
