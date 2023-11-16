@@ -2,7 +2,6 @@
 
 install python 3.9.5
 
-terminal(or cmd)
 npm install openai
 
 
