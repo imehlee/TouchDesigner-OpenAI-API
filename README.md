@@ -1,4 +1,4 @@
-# Touchdesigner-OpenAI-API
+# TouchDesigner-OpenAI-API
 
 1. install python 3.9.5
 
