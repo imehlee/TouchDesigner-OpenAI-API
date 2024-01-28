@@ -10,13 +10,15 @@ macOS > terminal.app
 windows > cmd
 
 3.
-pip install openai (or pip3 install openai)
+```pip install openai```
 
 4.
 Touchdesigner > setting (or preference) > Python 64-bit Module Path
 
-macOS: /Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages
-windows: C:\Users\ *username* \AppData\Local\Programs\Python\Python311\Lib\site-packages
+macOS    
+```/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages```
+windows    
+```C:\Users\ USERNAME \AppData\Local\Programs\Python\Python311\Lib\site-packages```
 
 5.
 In this file, there is no API KEY. In textDAT 'text_apiKey', paste your own key.
