@@ -16,7 +16,7 @@ windows > cmd
 Touchdesigner > setting (or preference) > Python 64-bit Module Path
 
 macOS    
-```/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages```
+```/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages```    
 windows    
 ```C:\Users\ USERNAME \AppData\Local\Programs\Python\Python311\Lib\site-packages```
 
