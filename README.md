@@ -2,14 +2,14 @@
 
 TouchDesigner version: 2023.11340
 
-##install python 3.11.0
+## Install Python 3.11.0
 
 macOS > terminal.app    
 windows > cmd
 
 ```pip install openai```
 
-##In TouchDesigner    
+## In TouchDesigner    
 setting (or preference) > Python 64-bit Module Path
 
 macOS    
@@ -18,11 +18,11 @@ macOS
 windows    
 ```C:\Users\ USERNAME \AppData\Local\Programs\Python\Python311\Lib\site-packages```
 
-##API-KEY
-In this file, there is no API KEY. In textDAT 'text_apiKey', paste your own key.
+## API-KEY
+In this file, there is no API KEY. In textDAT 'text_apiKey', paste your own key.    
 And you have to activate your API KEY
 
 
-##ONLY Text to Speech    
+## ONLY Text to Speech    
 It requires you to specify a folder for TTS mp3 file.    
 Create a folder and specify in Text_to_Speech base parameter "Folder".
