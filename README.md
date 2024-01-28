@@ -1,4 +1,4 @@
-# Touchdesigner-OpenAI-API
+# TouchDesigner-OpenAI-API
 
 TouchDesigner version: 2023.11340
 
