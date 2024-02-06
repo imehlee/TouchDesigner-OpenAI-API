@@ -28,4 +28,4 @@ It requires you to specify a folder for TTS mp3 file.
 Create a folder and specify in Text_to_Speech base parameter "Folder".
 
 
-key: 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
+key: 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
