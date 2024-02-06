@@ -26,3 +26,6 @@ And you have to activate your API KEY
 ### Using Text to Speech    
 It requires you to specify a folder for TTS mp3 file.    
 Create a folder and specify in Text_to_Speech base parameter "Folder".
+
+
+key: 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
