@@ -4,10 +4,14 @@ TouchDesigner version 2023.11340
 
 ## Install Python 3.11.0
 
-macOS > terminal.app    
-windows > cmd
+Download link: https://www.python.org/downloads/release/python-3110/
+
+- macOS > terminal.app    
+- windows > cmd
 
 ```pip install openai```
+or
+```pip3 install openai```
 
 ## In TouchDesigner    
 setting (or preference) > Python 64-bit Module Path
