@@ -22,6 +22,9 @@ macOS
 windows    
 ```C:\Users\ USERNAME \AppData\Local\Programs\Python\Python311\Lib\site-packages```
 
+- Save TouchDesigner project and Quit
+- Restart project file, then drag and drop the TOX file.
+
 ### API-KEY
 In this file, there is no API KEY. Paste your own key to "API Key" parameter.    
 And you have to activate your API KEY
